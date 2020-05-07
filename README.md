@@ -48,7 +48,7 @@ python xxx_test.py
 ```
 Before you run this program, please insure that the model parameters are downloaded and saved in the folder named checkpoints, and then you can find the resulting images and the intermediate residual images.
 
-## Acknowledge
+## Acknowledgement
 Our network architectures are based on the work of Zhang et al[1], we thank Hong-guang Zhang for answering our questions and thank again for the source code that are avilable publicly. Besides, our work gets its inspiration from [2], we take advantage of the complex representation ability of the nested modules to improve the contributions of the finest levels in the multi-patch network to their residuals. 
 
 ## Reference

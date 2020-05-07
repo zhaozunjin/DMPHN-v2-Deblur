@@ -29,7 +29,7 @@ Dynamic scene deblurring is a significant technique in the field of computer vis
 |modelattentioned|The attention mechanism is introduced into the modelstitused |
 |modelattentionted|The attention mechanism is introduced into the modelstituste|
 
-[Download the model parameter files.](https://drive.google.com/drive/folders/1aVeJ_GbBTM-Q0oaxpIH5TWS8wW48Qadf)
+[Download the model parameter files.](https://drive.google.com/drive/folders/1aVeJ_GbBTM-Q0oaxpIH5TWS8wW48Qadf?usp=sharing)
 
 - **train**
 ```

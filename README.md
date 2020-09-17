@@ -42,16 +42,12 @@ import models.modelstitus as models
 - **test**
 
 We recommend the readers run the demo.py, since four basic models can be imported for convenience. First, you should downloaded the checkpoints and save them according the following directory structure:
-checkpoints:
-  -> modelstitused
-      -> xxx.pkl
-  -> modelstitusted
-      -> xxx.pkl
-  -> modelattentioned
-      -> xxx.pkl
-  -> modelattentionted
-      -> xxx.pkl
-  -> 
+
+## checkpoints:
+  - modelstitused
+  - modelstitusted
+  - modelattentioned
+  - modelattentionted
 
 ```
 python xxx_test.py

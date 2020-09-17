@@ -40,6 +40,19 @@ As an improved version of DMPHN, to deomstrate the better performance of the pro
 import models.modelstitus as models
 ```
 - **test**
+
+We recommend the readers run the demo.py, since four basic models can be imported for convenience. First, you should downloaded the checkpoints and save them according the following directory structure:
+checkpoints:
+  -> modelstitused
+      -> xxx.pkl
+  -> modelstitusted
+      -> xxx.pkl
+  -> modelattentioned
+      -> xxx.pkl
+  -> modelattentionted
+      -> xxx.pkl
+  -> 
+
 ```
 python xxx_test.py
 ```
